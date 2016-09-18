@@ -60,7 +60,7 @@ void linkedList::traverse() {
 }
 
 void linkedList::printNode() {
-	cout << current->data << " ";
+	cout << current->data << endl;
 }
 
 int linkedList::getFirst() {

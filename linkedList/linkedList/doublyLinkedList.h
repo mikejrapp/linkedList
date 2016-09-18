@@ -36,7 +36,7 @@ doublyLinkedList::doublyLinkedList() {
 void doublyLinkedList::traverseHead() {
 	current = head;
 	while (current != nullptr) {
-		cout << current->data << " ";
+		cout << current->data << endl;
 		current = current->next;
 	}
 }
