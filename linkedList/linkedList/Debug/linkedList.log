@@ -1,4 +1,4 @@
 ﻿  linkeListImp.cpp
-c:\users\michael\documents\school\data structures\linked\linkedlist\linkedlist\linkedlist.h(84): warning C4715: 'linkedList::getNext': not all control paths return a value
-  linkedList.vcxproj -> C:\Users\Michael\Documents\School\Data Structures\linked\linkedList\Debug\linkedList.exe
-  linkedList.vcxproj -> C:\Users\Michael\Documents\School\Data Structures\linked\linkedList\Debug\linkedList.pdb (Partial PDB)
+f:\users\mike\documents\code\school\data_structures\linked_lists\linkedlist\linkedlist\linkedlist\linkedlist.h(102): warning C4715: 'linkedList::getNext': not all control paths return a value
+  linkedList.vcxproj -> F:\Users\Mike\Documents\Code\School\Data_Structures\Linked_Lists\linkedList\linkedList\Debug\linkedList.exe
+  linkedList.vcxproj -> F:\Users\Mike\Documents\Code\School\Data_Structures\Linked_Lists\linkedList\linkedList\Debug\linkedList.pdb (Partial PDB)
